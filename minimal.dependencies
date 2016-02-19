@@ -1,0 +1,13 @@
+[
+ {
+   "remote": "github",
+   "repository": "CyanogenMod/android_kernel_huawei_angler",
+   "target_path": "kernel/huawei/angler"
+ },
+  {
+   "remote": "github",
+   "repository": "TheMuppets/proprietary_vendor_huawei",
+   "target_path": "vendor/huawei",
+   "branch": "cm-13.0"
+  }
+]
